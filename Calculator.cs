@@ -8,7 +8,8 @@ class Calculator
 	Console.WriteLine("Hasil Penambahan: {0} + {1} = {2}", a, b, penambahan(a, b));
 	Console.WriteLine("Hasil Penambahan: {0} - {1} = {2}", a, b, penambahan(a, b));
 	
-	
+	int catch = 10;
+	int isfids = 6; 
   }
   
 } 
